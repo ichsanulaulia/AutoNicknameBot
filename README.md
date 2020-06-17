@@ -21,7 +21,6 @@ How it works
 
 When user (friend) joins the server, autonickname will change their nickname.
 
-When other bot joins the server, this will prevent autonickname from changing other bot's nickname.
 
 
 

@@ -25,5 +25,11 @@ When other bot joins the server, this will prevent autonickname from changing ot
 
 
 
-invite links https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201357312&scope=bot
-Join Our Support Server https://discord.com/invite/r6g65qa
+invite links 
+https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201455680&scope=bot
+
+https://discordbotlist.com/bots/auto-nickname
+
+https://top.gg/bot/682016661225865226 (released soon there)
+
+Join Our Support Server https://discord.com/invite/unCFhQM

@@ -33,3 +33,7 @@ https://discordbotlist.com/bots/auto-nickname
 https://top.gg/bot/682016661225865226 (released soon there)
 
 Join Our Support Server https://discord.com/invite/unCFhQM
+
+
+How To set ?? Check Video
+https://youtu.be/iR-8SbJupxc

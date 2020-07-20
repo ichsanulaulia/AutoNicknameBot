@@ -1,10 +1,7 @@
 # AutoNickname
 
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/beHdDgx)
-[![](https://discordbots.org/api/widget/status/682016661225865226.svg)](https://discordbots.org/bot/682016661225865226)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-
-[![Discord Bots](https://discordbots.org/api/widget/682016661225865226.svg)](https://discordbots.org/bot/682016661225865226)
 
 
 
@@ -13,42 +10,51 @@ You can change the nickname settings as you like, you can change their names, or
 and by changing your nickname, you can prevent members from falsifying data or pretending to be important people or being someone else on your server
 
 
-                                                           Commands
+Before You Use bots Make sure you add permissions in the channel for the AUTONICKNAME role like this
+And make sure the AutoNickname ROLE is above the Members role 
 
-
-
-an!help - Shows all commands 
-
-an!setnick [nickname] - Setup Autonickname in the server and for disable you can leave it blank 
-
-an!setprefix [prefix] - Change prefix for this bot in the server.
-
-an!getnick - Get Current Nickname used for Auto Nickname Bot.
-
-an!about - Sends information about the bot owner, invite link for the bot and etc
+<img src="https://media.discordapp.net/attachments/721788946954059829/734818419580600421/setup_channel.gif"  /></a>
 
 
 
 
+
+LIST COMMAND
+
+
+help - Show All Command
+
+setnick  - Setup Auto NickName , Leave It Blank For Disable
+
+<img src="https://media.discordapp.net/attachments/721393381594628104/734142975902351410/ezgif.com-video-to-gif.gif"  />
+</a>
+
+setprefix - Change the prefix for this bot in the server.
+
+checknick - Check Current Nickname used for auto nickname in ur server.
+
+getnick - This command can change the nickname of members who have long joined the server with terms and conditions
+  <img src="https://media.discordapp.net/attachments/721393381594628104/734145839509012550/ezgif.com-video-to-gif_1.gif"  />
+</a>  
+
+
+ping - Check ping Bots
+
+about - Sends information about the bot, owner, donate and etc
+
+rules - A description of the rules or terms and conditions for using AutoNicknameBot
 
 How to Use?
-[Click me](https://www.youtube.com/watch?v=iR-8SbJupxc)
+[Click me to check Video](https://www.youtube.com/watch?v=iR-8SbJupxc)
 
 Have Problem?
 [Click me](https://discord.gg/beHdDgx)
 
 
 invite links 
-
-[Top.gg](https://top.gg/bot/682016661225865226)
-
-[DiscordBotList](https://discordbotlist.com/bots/auto-nickname)
-
+[Click me](https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201608192&scope=bot)
 
 How To set ?? Check Video
 https://youtu.be/iR-8SbJupxc
 
 
-<a href="https://top.gg/bot/682016661225865226" >
-  <img src="https://top.gg/api/widget/682016661225865226.svg" alt="AUTO NICKNAME" />
-</a>

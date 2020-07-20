@@ -13,7 +13,8 @@ and by changing your nickname, you can prevent members from falsifying data or p
 Before You Use bots Make sure you add permissions in the channel for the AUTONICKNAME role like this
 And make sure the AutoNickname ROLE is above the Members role 
 
-<img src="https://media.discordapp.net/attachments/721788946954059829/734818419580600421/setup_channel.gif"  /></a>
+<img src="https://media.discordapp.net/attachments/721788946954059829/734818419580600421/setup_channel.gif"  />
+</a>
 
 
 

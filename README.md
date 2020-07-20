@@ -53,7 +53,7 @@ Have Problem?
 
 
 invite links 
-[Click me](https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201608192&scope=bot)
+[Click me](https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201346048&scope=bot)
 
 How To set ?? Check Video
 https://youtu.be/iR-8SbJupxc

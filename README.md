@@ -30,7 +30,6 @@ setnick  - Setup Auto NickName , Leave It Blank For Disable
 <img src="https://media.discordapp.net/attachments/721393381594628104/734142975902351410/ezgif.com-video-to-gif.gif"  />
 </a>
 
-setprefix - Change the prefix for this bot in the server.
 
 checknick - Check Current Nickname used for auto nickname in ur server.
 
@@ -43,7 +42,6 @@ ping - Check ping Bots
 
 about - Sends information about the bot, owner, donate and etc
 
-rules - A description of the rules or terms and conditions for using AutoNicknameBot
 
 How to Use?
 [Click me to check Video](https://www.youtube.com/watch?v=iR-8SbJupxc)
@@ -53,7 +51,7 @@ Have Problem?
 
 
 invite links 
-[Click me](https://discord.com/oauth2/authorize?client_id=682016661225865226&permissions=201346048&scope=bot)
+[Click me](https://discord.com/oauth2/authorize?client_id=738713564763652156&permissions=201346048&scope=bot)
 
 How To set ?? Check Video
 https://youtu.be/iR-8SbJupxc

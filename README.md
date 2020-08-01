@@ -3,7 +3,10 @@
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/beHdDgx)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
+##BOT The bot has been changed to AutoBOT
 
+invite links 
+[Click me](https://discord.com/oauth2/authorize?client_id=738713564763652156&permissions=201346048&scope=bot)
 
 one of the bots that has a feature to change nicknames when members join the server, and this bot is very good to use for servers such as game community or any server
 You can change the nickname settings as you like, you can change their names, or add nicknames in front of or behind their names

@@ -2,10 +2,10 @@
   <img src="https://top.gg/api/widget/1237341801094840350.svg">
 </a>
 <a href="https://top.gg/bot/1234033109981462559">
-  <img src="https://top.gg/api/widget/1234033109981462559">
+  <img src="https://top.gg/api/widget/1234033109981462559.svg">
 </a>
 <a href="https://top.gg/bot/738713564763652156">
-  <img src="https://top.gg/api/widget/738713564763652156">
+  <img src="https://top.gg/api/widget/738713564763652156.svg">
 </a>
 
 

@@ -7,6 +7,9 @@
 <a href="https://top.gg/bot/738713564763652156">
   <img src="https://top.gg/api/widget/738713564763652156.svg">
 </a>
+<a href="https://top.gg/bot/1236217121336201246">
+  <img src="https://top.gg/api/widget/1236217121336201246.svg">
+</a>
 
 
 >> A Discord bot for changing username for joined members 

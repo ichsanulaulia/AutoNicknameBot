@@ -2,10 +2,55 @@
   <img src="https://top.gg/api/widget/1237341801094840350.svg">
 </a>
 
+# AutoNickname Discord Bot
 
-# AutoNickName
-A Discord bot for changing username for joined members And Change NickName When Members Get Any Roles
-[Tutorial Is Here](https://www.youtube.com/watch?v=y8N5qQ3LqV0)
+AutoNickname is a powerful Discord bot designed to automate and manage nicknames for your server members. Whether it's changing nicknames for new members or automatically updating them when members receive new roles, AutoNickname handles it all effortlessly.
+
+<h5 style="color: #999; padding: 0 20px 25px; border-radius: 5px; background: #0c091a;">
+With this bot, you can manage your discord server members' nicknames easily and automatically!
+</h5>
+
+## [Tutorial Video](https://www.youtube.com/watch?v=y8N5qQ3LqV0)
+[Watch Tutorial](https://www.youtube.com/watch?v=y8N5qQ3LqV0)
+
+### Overview
+AutoNickname is a Discord bot designed to simplify nickname management within your server. Whether you want to change nicknames for new members or automatically adjust them based on roles, AutoNickname has you covered.
+
+### Key Features
+1. **Nickname Customization:**
+   - Change nicknames for new members or when members get any roles.
+   - Add prefixes or suffixes to nicknames using `{uname}` for the user's username and `{gname}` for the global name.
+   - Logging System: use `/log` to set the status and channel for logging.
+
+2. **Auto Nickname for New Members:**
+   - Automatically set nicknames for users when they join your server.
+   - Use `/nick-join` with `{uname}` for the user's username and `{gname}` for the global name.
+
+3. **Role-Based Nicknames:**
+   - Modify nicknames when someone gets specific roles. Use the command `/role-add` (for one role) or `/role-add-all` to add each role in your server.
+   - Example: If someone named OZORAA receives the "Moderator" role, their nickname becomes "OZORAA Moderator."
+
+## Important Notes
+- **Role Hierarchy:**
+  - The bot cannot change nicknames if the target person's role is higher than the bot's role.
+  - To fix this, ensure the bot's role is positioned at the top.
+- **Server Owner Nicknames:**
+  - The bot cannot change the server owner's nickname due to Discord rules.
+- **Support Server:**
+  - Join the support server for error logs and assistance.
+
+[AutoNickname Bot on Top.gg](https://top.gg/bot/1237341801094840350)
+
+<h5 style="color: #999; padding: 0 20px 25px; border-radius: 5px; background: #0c091a;">
+- The bot will not be able to change nicknames if the role of the person it wants to change is higher than the bot's role itself or if the role to be set is higher than the bot's role. (You must move the bot's role to the top to fix this issue.)
+
+- If you are the server owner, the bot can't change your nickname! (This cannot be fixed due to Discord rules.)
+
+- If you don't want to set logs on your server, please join the support server; all error logs are available there.
+
+**PLEASE DON'T BE LAZY TO WATCH THE TUTORIAL VIDEO. EVERYTHING ABOUT AUTONICKNAME IS EXPLAINED THERE.**
+</h5>
+
 # AutoNickName Command List
 
 ## General Commands
@@ -76,6 +121,7 @@ A Discord bot for changing username for joined members And Change NickName When 
 - **/log**
   - **Description:** Set up and configure logging channels and features for AutoNickname.
   - **Permissions Required:** Manage Guild
+
 
 # AutoBot
 A Discord bot for changing username for joined members And Change NickName When Members Get Any Roles

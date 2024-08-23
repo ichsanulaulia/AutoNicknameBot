@@ -6,6 +6,25 @@
 
 AutoNickname is a powerful Discord bot designed to automate and manage nicknames for your server members. Whether it's changing nicknames for new members or automatically updating them when members receive new roles, AutoNickname handles it all effortlessly.
 
+## Support the Development
+Do you love what AutoNickname does? If you’d like to see more features and continuous improvements, you can support the development of this bot in various ways:
+
+### Join as a Supporter
+You can join our growing community of supporters on GitHub. Your support helps keep this project alive and thriving!
+
+[Become a GitHub Sponsor](https://github.com/sponsors/ichsanulaulia)
+
+### Donate via Cryptocurrency
+If you prefer to support us via cryptocurrency, donations are greatly appreciated in BTC, USDT, LTC, and other major coins. Your contributions help cover the costs of hosting, maintenance, and further development.
+
+**BTC:**  `1FPUUZqRxE75PbzYtLR622HkCsvZT1AoDs`  
+**USDT TRC 20:** `TR8Hus7mzvJEJuJeYnJBBy9YM6JV95pFaE`
+
+No matter how you choose to support, we’re incredibly grateful for your help in making AutoNickname better for everyone!
+
+<h5 style="color: #999; padding: 0 20px 25px; border-radius: 5px; background: #0c091a;">
+Your generosity directly impacts the bot's development and helps us continue to provide this service to the community. Thank you!
+</h5>
 <h5 style="color: #999; padding: 0 20px 25px; border-radius: 5px; background: #0c091a;">
 With this bot, you can manage your discord server members' nicknames easily and automatically!
 </h5>

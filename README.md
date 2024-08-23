@@ -129,6 +129,7 @@ AutoNickname is a Discord bot designed to simplify nickname management within yo
 
 ![AutoNickname for Members Roles and Joined Members](https://github.com/ichsanulaulia/AutoNicknameBot/blob/master/img/ForAutoNickname%20For%20Members%20Roles.gif)
 *The second GIF ensures that the setup role position for changes nicknames based on members' roles (when a role is added or removed). Note that the bot will not be able to change nicknames if the target role or the role being set is higher than the bot's role itself. To resolve this, you must move the bot's role to the top like this.*
+- If you are the server owner, the bot can't change your nickname! (This cannot be fixed due to Discord rules.) 
 
 # AutoBot
 A Discord bot for changing username for joined members And Change NickName When Members Get Any Roles
